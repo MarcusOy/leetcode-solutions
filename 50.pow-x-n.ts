@@ -27,5 +27,5 @@ function myPow(x: number, n: number): number {
 };
 // @lc code=end
 
-let asdf = myPow(1, 2147483647)
+myPow(1, 2147483647)
 console.log('done');
